@@ -1,6 +1,8 @@
 # Scylla
 This is one of my earliest programs developed when I was relatively new to Java in 2015. 
 I developed it to store passwords and other secret information (for just myself).
+You may recognise the name from the secret box used in the series 'Prison Break' :)
+
 Looking back at the code, I can't help but laugh at myself. There were so many things I didn't know back then.
 I am however proud of it because it contributed to my growth in programming.
 
